@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sobre Mim<br>Olá! Sou um entusiasta da programação e estudante de Ciência da Computação recém-chegado ao universo do desenvolvimento. Atualmente, estou focado em construir minhas bases em Python, JavaScript, HTML e CSS.<br><br>Estou sempre em busca de novos desafios e adoro aprender coisas novas. Este portfólio reflete meus primeiros passos e projetos, e estou animado para evoluir e compartilhar meu progresso com a comunidade!
 
 
