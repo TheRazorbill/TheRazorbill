@@ -16,7 +16,3 @@ Sobre Mim<br>Olá! Sou um entusiasta da programação e estudante de Ciência da
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TheRazorbill&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://raw.githubusercontent.com/TheRazorbill/TheRazorbill/output/snake.svg" alt="Snake animation" />
-
-###
