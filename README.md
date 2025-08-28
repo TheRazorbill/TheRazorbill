@@ -39,8 +39,8 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 ### 📂 Projetos
 *Abaixo estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar!*
 
--  پروژه **[Portifolio](https://github.com/TheRazorbill/meu-portfolio)**: Meu portifolio pessoal.
--  پروژه **[Acessibilidade web](https://github.com/TheRazorbill/Acessibilidade-Web-2.0)**: Página web desenvolvida para demonstrar e explorar os desafios comuns de acessibilidade.
+-   **[Portifolio](https://github.com/TheRazorbill/meu-portfolio)**: Meu portifolio pessoal.
+-   **[Acessibilidade web](https://github.com/TheRazorbill/Acessibilidade-Web-2.0)**: Página web desenvolvida para demonstrar e explorar os desafios comuns de acessibilidade.
 
 ---
 
@@ -66,8 +66,8 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 
 Você pode me encontrar em:
 
-- **LinkedIn:** **[seu-perfil](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN)**
-- **Email:** **[seu.email@exemplo.com](mailto:seu.email@exemplo.com)**
+- **LinkedIn:** **[Meu perfil]([https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN](https://www.linkedin.com/in/rahian-s-s/))**
+- **Email:** **[rahiandasilvasantos@gmail.com](mailto:seu.email@exemplo.com)**
 
 <br>
 <p align="right">
