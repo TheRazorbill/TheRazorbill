@@ -1,4 +1,4 @@
-<h1 align="center">TheRazorbill/Rahian</h1>
+<h1 align="center">TheRazorbill / Rahian</h1>
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em Formação</h3>
 
 <br>
@@ -36,11 +36,17 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 
 ---
 
-### 📂 Projetos
+### 📂 Projetos em Destaque
 *Abaixo estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar!*
 
--   **[Portifolio](https://github.com/TheRazorbill/meu-portfolio)**: Meu portifolio pessoal.
--   **[Acessibilidade web](https://github.com/TheRazorbill/Acessibilidade-Web-2.0)**: Página web desenvolvida para demonstrar e explorar os desafios comuns de acessibilidade.
+<p align="center">
+  <a href="https://github.com/TheRazorbill/meu-portfolio" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRazorbill&repo=meu-portfolio&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/TheRazorbill/Acessibilidade-Web-2.0" align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRazorbill&repo=Acessibilidade-Web-2.0&theme=radical&show_owner=true" />
+  </a>
+</p>
 
 ---
 
@@ -56,14 +62,18 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
   </p>
 </details>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRazorbill&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
 ---
 
 ### 📫 Contato
 
 Você pode me encontrar em:
 
-- **LinkedIn:** **[Meu perfil]([https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN](https://www.linkedin.com/in/rahian-s-s/))**
-- **Email:** **[rahiandasilvasantos@gmail.com](mailto:seu.email@exemplo.com)**
+- **LinkedIn:** **[Meu Perfil](https://www.linkedin.com/in/rahian-s-s/)**
+- **Email:** **[rahiandasilvasantos@gmail.com](mailto:rahiandasilvasantos@gmail.com)**
 
 <br>
 <p align="right">
