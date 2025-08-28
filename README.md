@@ -1,56 +1,75 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdyazJ6NW9mMjNmbmlwd3N0cnZicGJwMXp5bzR1c2JocjRkMXN6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-</p>
-
-<h1 align="center">Olá, eu sou TheRazorbill 👋</h1>
-<h3 align="center">Um entusiasta de tecnologia e estudante de Ciência da Computação apaixonado por transformar ideias em código.</h3>
+<h1 align="center">TheRazorbill</h1>
+<h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em Formação</h3>
 
 <br>
+
+<p align="center">
+  <a href="#-sobre-mim">Sobre Mim</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-projetos">Projetos</a> •
+  <a href="#-contato">Contato</a>
+</p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-<p align="left">
-  Sou um desenvolvedor em início de carreira, cursando <strong>Ciência da Computação</strong> e totalmente imerso no universo do desenvolvimento de software. Meu foco atual é construir uma base técnica sólida, especialmente em Python e no ecossistema web, para criar soluções criativas e eficientes.
-</p>
-
-- 🌱 Atualmente estou aprimorando minhas habilidades em **JavaScript Moderno** e **Estruturas de Dados com Python**.
-- 🔭 Tenho interesse em explorar áreas como **Inteligência Artificial** e **Desenvolvimento Backend**.
-- 🤝 Busco colaborar em **projetos de código aberto** para ganhar experiência prática.
-- 📫 Como me encontrar: **[SEU_EMAIL@exemplo.com](mailto:SEU_EMAIL@exemplo.com)**
+Olá! Sou um entusiasta da programação e estudante de Ciência da Computação. Minha jornada no mundo do desenvolvimento está focada em construir uma base sólida em tecnologias essenciais, com um interesse especial em **Python** e no ecossistema web (**JavaScript, HTML, CSS**). Estou constantemente aprendendo e buscando aplicar meus conhecimentos em projetos práticos.
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  </a>
+Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
+
+- **Linguagens:** Python, JavaScript
+- **Web:** HTML5, CSS3
+- **Design:** Canva, Adobe Suite
+- **Controle de Versão:** Git
+
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+### 📂 Projetos
+*Abaixo estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar!*
+
+-  پروژه **[Nome do Projeto 1](LINK_PARA_O_REPOSITORIO_1)**: Uma breve descrição do que o projeto faz.
+-  پروژه **[Nome do Projeto 2](LINK_PARA_O_REPOSITORIO_2)**: Uma breve descrição do que o projeto faz.
+
+---
+
+### 📊 Estatísticas
+
+<details>
+  <summary>Clique para ver minhas estatísticas do GitHub</summary>
+  <br>
+  <p align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=TheRazorbill&theme=dark&hide_border=false" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRazorbill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </p>
+</details>
+
 <p align="center">
-  <a href="https://github.com/TheRazorbill/[NOME_DO_REPO_1]" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheRazorbill&repo=[NOME_DO_REPO_1]&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/TheRazorbill/[NOME_DO_REPO_2]" target="_blank">
-    <img src="https://github-readme-stats.vercel
+  <img src="https://github-profile-trophy.vercel.app/?username=TheRazorbill&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 📫 Contato
+
+Você pode me encontrar em:
+
+- **LinkedIn:** **[seu-perfil](https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN)**
+- **Email:** **[seu.email@exemplo.com](mailto:seu.email@exemplo.com)**
+
+<br>
+<p align="right">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" />
+</p>
