@@ -39,8 +39,8 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 ### 📂 Projetos
 *Abaixo estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar!*
 
--  پروژه **[Nome do Projeto 1](LINK_PARA_O_REPOSITORIO_1)**: Uma breve descrição do que o projeto faz.
--  پروژه **[Nome do Projeto 2](LINK_PARA_O_REPOSITORIO_2)**: Uma breve descrição do que o projeto faz.
+-  پروژه **[Portifolio](https://github.com/TheRazorbill/meu-portfolio)**: Meu portifolio pessoal.
+-  پروژه **[Acessibilidade web](https://github.com/TheRazorbill/Acessibilidade-Web-2.0)**: Página web desenvolvida para demonstrar e explorar os desafios comuns de acessibilidade.
 
 ---
 
