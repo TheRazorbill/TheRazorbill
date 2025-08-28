@@ -62,10 +62,6 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
   </p>
 </details>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheRazorbill&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
 ---
 
 ### 📫 Contato
