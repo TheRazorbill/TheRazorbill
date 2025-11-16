@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F22%2F22657b8a577f858827c5d46dac32cf53.gif&f=1&nofb=1&ipt=b70506ccc8c3627183ffb5db797b9389ec40c6bf69f39299536ac2d9e8b1b740"  />
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FuC8h1kh1bqMAAAAC%2Fto-be-hero-x-anime.gif&f=1&nofb=1&ipt=0156f9275f20959b4cbc8cddba9ad995189a373797f8334b4a6228b1dd175f65"  />
 </div>
 
 ###
@@ -50,3 +50,9 @@ Você pode me encontrar em:
 <p align="right">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" />
 </p>
+
+<div align="center">
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2F8-AgmQwksYwAAAAC%2Fto-be-hero-x-tbhx.gif&f=1&nofb=1&ipt=96c9ea4ad1d6e7651b8adc0083948bd012711dfd7d3077d34dad09e4129b6797"  />
+</div>
+
+###
