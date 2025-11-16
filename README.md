@@ -10,10 +10,9 @@
 <br>
 
 <p align="center">
-  <a href="#-sobre-mim">Sobre Mim</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-projetos">Projetos</a> •
-  <a href="#-contato">Contato</a>
+  <a href="👨‍💻">Sobre Mim</a> •
+  <a href="🚀">Tecnologias</a> •
+  <a href="#-contato">Contato</a> 
 </p>
 
 ---
@@ -45,34 +44,6 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 </div>
 
 ###
-
----
-
-### 📂 Projetos em Destaque
-*Abaixo estão alguns projetos que desenvolvi. Sinta-se à vontade para explorar!*
-
-<p align="center">
-  <a href="https://github.com/TheRazorbill/meu-portfolio" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRazorbill&repo=meu-portfolio&theme=radical&show_owner=true" />
-  </a>
-  <a href="https://github.com/TheRazorbill/Acessibilidade-Web-2.0" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRazorbill&repo=Acessibilidade-Web-2.0&theme=radical&show_owner=true" />
-  </a>
-</p>
-
----
-
-### 📊 Estatísticas
-
-<details>
-  <summary>Clique para ver minhas estatísticas do GitHub</summary>
-  <br>
-  <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=TheRazorbill&theme=dark&hide_border=false" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRazorbill&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </p>
-</details>
 
 ---
 
