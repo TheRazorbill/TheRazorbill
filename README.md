@@ -48,11 +48,5 @@ Você pode me encontrar em:
 
 <br>
 <p align="right">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" width="400" />
 </p>
-
-<div align="center">
-  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2F8-AgmQwksYwAAAAC%2Fto-be-hero-x-tbhx.gif&f=1&nofb=1&ipt=96c9ea4ad1d6e7651b8adc0083948bd012711dfd7d3077d34dad09e4129b6797"  />
-</div>
-
-###
