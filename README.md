@@ -9,14 +9,6 @@
 
 <br>
 
-<p align="center">
-  <a href="👨‍💻">Sobre Mim</a> •
-  <a href="🚀">Tecnologias</a> •
-  <a href="#-contato">Contato</a> 
-</p>
-
----
-
 ### 👨‍💻 Sobre Mim
 
 ###
