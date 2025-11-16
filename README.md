@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Forigin%2F22%2F22657b8a577f858827c5d46dac32cf53.gif&f=1&nofb=1&ipt=b70506ccc8c3627183ffb5db797b9389ec40c6bf69f39299536ac2d9e8b1b740"  />
+</div>
+
+###
+
 <h1 align="center">TheRazorbill / Rahian</h1>
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvedor em Formação</h3>
 
@@ -14,24 +20,31 @@
 
 ### 👨‍💻 Sobre Mim
 
-Olá! Sou um entusiasta da programação e estudante de Ciência da Computação. Minha jornada no mundo do desenvolvimento está focada em construir uma base sólida em tecnologias essenciais, com um interesse especial em **Python** e no ecossistema web (**JavaScript, HTML, CSS**). Estou constantemente aprendendo e buscando aplicar meus conhecimentos em projetos práticos.
+###
 
+<p align="left">Hello! I am a Computer Science student dedicated to translating learning into practical code.<br><br>🔭 I’m working as: I am actively practicing as a Beginner Developer, focusing my efforts on tackling challenging projects from FrontEnd Mentor and developing responsive user interfaces using the React library.<br><br>📚 I'm currently learning: I am currently diving deep into JavaScript, with a special focus on the React and Node.js ecosystem, aiming to solidify my knowledge base for building complete and efficient full-stack applications.<br><br>⚡ In my free time: I enjoy participating in Hackathons to rapidly apply new technologies in high-pressure scenarios, and I regularly solve algorithm challenges on LeetCode to keep my data structures and problem-solving skills sharp.</p>
+
+###
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
 Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 
-- **Linguagens:** Python, JavaScript
-- **Web:** HTML5, CSS3
-- **Design:** Canva, Adobe Suite
-- **Controle de Versão:** Git
 
-<p>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
 
 ---
 
