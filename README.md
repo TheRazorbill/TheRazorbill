@@ -9,18 +9,18 @@
 
 <br>
 
-### 👨‍💻 Sobre Mim
+###  Sobre Mim
 
 ###
 
-<p align="left">Hello! I am a Computer Science student dedicated to translating learning into practical code.<br><br>🔭 I’m working as: I am actively practicing as a Beginner Developer, focusing my efforts on tackling challenging projects from FrontEnd Mentor and developing responsive user interfaces using the React library.<br><br>📚 I'm currently learning: I am currently diving deep into JavaScript, with a special focus on the React and Node.js ecosystem, aiming to solidify my knowledge base for building complete and efficient full-stack applications.<br><br>⚡ In my free time: I enjoy participating in Hackathons to rapidly apply new technologies in high-pressure scenarios, and I regularly solve algorithm challenges on LeetCode to keep my data structures and problem-solving skills sharp.</p>
+<p align="left">Hello! I am a Computer Science student dedicated to translating learning into practical code.<br><br> I’m working as: I am actively practicing as a Beginner Developer, focusing my efforts on tackling challenging projects from FrontEnd Mentor and developing responsive user interfaces using the React library.<br><br> I'm currently learning: I am currently diving deep into JavaScript, with a special focus on the React and Node.js ecosystem, aiming to solidify my knowledge base for building complete and efficient full-stack applications.<br><br> In my free time: I enjoy participating in Hackathons to rapidly apply new technologies in high-pressure scenarios, and I regularly solve algorithm challenges on LeetCode to keep my data structures and problem-solving skills sharp.</p>
 
 ###
 ---
 
-### 🚀 Tecnologias e Ferramentas
+###  Technologies and Tools
 
-Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
+Currently, my main study and development tools are:
 
 
 <div align="center">
@@ -39,7 +39,7 @@ Atualmente, minhas principais ferramentas de estudo e desenvolvimento são:
 
 ---
 
-### 📫 Contato
+###  Contato
 
 Você pode me encontrar em:
 
