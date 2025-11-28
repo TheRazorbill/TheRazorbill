@@ -41,8 +41,3 @@ Você pode me encontrar em:
 
 - **LinkedIn:** **[Meu Perfil](https://www.linkedin.com/in/rahian-s-s/)**
 - **Email:** **[rahiandasilvasantos@gmail.com](mailto:rahiandasilvasantos@gmail.com)**
-
-<br>
-<p align="right">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" width="400" />
-</p>
