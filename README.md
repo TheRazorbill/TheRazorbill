@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FuC8h1kh1bqMAAAAC%2Fto-be-hero-x-anime.gif&f=1&nofb=1&ipt=0156f9275f20959b4cbc8cddba9ad995189a373797f8334b4a6228b1dd175f65" />
-
   <h1>TheRazorbill / Rahian</h1>
 
 <br>
@@ -39,3 +36,7 @@ You can find me in:
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/rahian-s-s/)
 - **Email:** [rahiandasilvasantos@gmail.com](mailto:rahiandasilvasantos@gmail.com)
 - **Portfólio:** [Portfólio](https://therazorbill.github.io/meu-portfolio/)
+
+<div align="center">
+  <img height="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2FuC8h1kh1bqMAAAAC%2Fto-be-hero-x-anime.gif&f=1&nofb=1&ipt=0156f9275f20959b4cbc8cddba9ad995189a373797f8334b4a6228b1dd175f65" />
+
