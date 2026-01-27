@@ -24,7 +24,7 @@ Hello! I am a **Computer Science student** dedicated to translating learning int
 Currently, my main study and development tools are:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,c,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,c,git,vscode" />
 </div>
 
 ---
