@@ -28,6 +28,15 @@ Currently, my main study and development tools are:
 </div>
 
 ---
+### Key Projects
+
+[Projeto-English-For-Devs](https://github.com/TheRazorbill/Projeto-English-For-Devs): The project connects the literal meaning of technical terms (e.g., Fetch = "Go get") to their logical function in the code, making learning more intuitive for Brazilian developers.
+
+[Estude-Inteligente](https://github.com/TheRazorbill/Estude-Inteligente): The "Study Smarter" project is a web platform developed to help students discover their predominant learning style and find relevant resources, such as books, to optimize their studies.
+
+[App-produtividade](https://github.com/TheRazorbill/app-produtividade): A to-do list application created with pure HTML, CSS, and JavaScript. (Recently refactored to TypeScript)
+
+---
 
 ### Contact
 
