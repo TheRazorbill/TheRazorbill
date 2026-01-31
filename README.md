@@ -30,6 +30,9 @@ Currently, my main study and development tools are:
 ---
 ### Key Projects
 
+[WhenEnds](https://whenends.netlify.app): I always knew when I gained access to a platform and for how long, but never how many days were left.
+WhenEnds solves exactly that. A simple, fast, and self-explanatory product.
+
 [Projeto-English-For-Devs](https://github.com/TheRazorbill/Projeto-English-For-Devs): The project connects the literal meaning of technical terms (e.g., Fetch = "Go get") to their logical function in the code, making learning more intuitive for Brazilian developers.
 
 [Estude-Inteligente](https://github.com/TheRazorbill/Estude-Inteligente): The "Study Smarter" project is a web platform developed to help students discover their predominant learning style and find relevant resources, such as books, to optimize their studies.
