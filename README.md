@@ -13,7 +13,7 @@
 
 Hello! I am a **Computer Science student** dedicated to translating learning into practical code.
 
--  **I’m currently working on:** Practicing as a Beginner Developer, tackling challenging projects from FrontEnd Mentor and developing responsive UIs.
+-  **I’m currently working on:** Practicing as a Developer, tackling challenging projects and developing responsive UIs.
 -  **I'm currently learning:** Diving deep into **JavaScript**, with a special focus on the **React** and **Node.js** ecosystem.
 -  **In my free time:** I regularly solve algorithm challenges on **LeetCode** to keep my data structures and problem-solving skills sharp.
 
