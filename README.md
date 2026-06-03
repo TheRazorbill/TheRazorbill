@@ -1,9 +1,7 @@
-<h1>TheRazorbill / Rahian</h1>
-
-<br>
-
+<div align="center">
+  <h1>Hi, I'm Rahian </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=7000&color=004BF7&background=FFFFFF00&center=true&vCenter=true&width=460&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+Forma%C3%A7%C3%A3o+%7C+FrontEnd" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Science+Gothic&pause=5000&color=004BF7&background=FFFFFF00&center=true&vCenter=true&width=460&lines=Computer+Science+Student;GSoC+'26+Contributor+@+Rocket.Chat;Full-Stack+JavaScript+/+TypeScript" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,40 +9,24 @@
 
 ### About Me
 
-Hello! I am a **Computer Science student** dedicated to translating learning into practical code.
+Computer Science student and Open Source Contributor focused on building solid, predictable, and scalable web applications.
 
--  **I’m currently working on:** Practicing as a Developer, tackling challenging projects and developing responsive UIs.
--  **I'm currently learning:** Diving deep into **JavaScript**, with a special focus on the **React** and **Node.js** ecosystem.
--  **In my free time:** I regularly solve algorithm challenges on **LeetCode** to keep my data structures and problem-solving skills sharp.
+-  **Current Focus:** Engineering a modular UI system for chat headers at **Rocket.Chat** via **Google Summer of Code 2026**.
+-  **Core Stack:** TypeScript, React.js, Node.js, Jest, and Playwright.
+-  **Daily Habit:** Solving Data Structures & Algorithms (DSA) challenges on LeetCode.
 
 ---
 
-### Technologies and Tools
-
-Currently, my main study and development tools are:
+### 💻 Technologies and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nodejs,express,c,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,docker,git,jest,vscode" />
 </div>
 
 ---
-### Key Projects
 
-[WhenEnds](https://whenends.netlify.app): I always knew when I gained access to a platform and for how long, but never how many days were left.
-WhenEnds solves exactly that. A simple, fast, and self-explanatory product.
+###  Connect with me
 
-[Projeto-English-For-Devs](https://github.com/TheRazorbill/Projeto-English-For-Devs): The project connects the literal meaning of technical terms (e.g., Fetch = "Go get") to their logical function in the code, making learning more intuitive for Brazilian developers.
-
-[Estude-Inteligente](https://github.com/TheRazorbill/Estude-Inteligente): The "Study Smarter" project is a web platform developed to help students discover their predominant learning style and find relevant resources, such as books, to optimize their studies.
-
-[App-produtividade](https://github.com/TheRazorbill/app-produtividade): A to-do list application created with pure HTML, CSS, and JavaScript. (Recently refactored to TypeScript)
-
----
-
-### Contact
-
-You can find me in:
-
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/rahian-s-s/)
+- **LinkedIn:** [linkedin.com/in/rahian](https://www.linkedin.com/in/rahian)
 - **Email:** [rahiandasilvasantos@gmail.com](mailto:rahiandasilvasantos@gmail.com)
 - **Portfólio:** [Portfólio](https://therazorbill.github.io/meu-portfolio/)
