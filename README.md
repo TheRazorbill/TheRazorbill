@@ -17,7 +17,7 @@ Computer Science student and Open Source Contributor focused on building solid, 
 
 ---
 
-### 💻 Technologies and Tools
+### Technologies and Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,typescript,react,nodejs,express,mongodb,docker,git,jest,vscode" />
