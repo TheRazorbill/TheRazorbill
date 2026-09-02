@@ -31,3 +31,7 @@ Full-Stack JavaScript/TypeScript Developer focused on building solid, predictabl
 * **LinkedIn:** [linkedin.com/in/rahian](https://www.linkedin.com/in/rahian)
 * **Email:** [rahiandasilvasantos@gmail.com](mailto:rahiandasilvasantos@gmail.com)
 * **Portfolio:** [Portfolio](https://therazorbill.github.io/meu-portfolio/)
+
+### Badges
+
+<div><a href="https://cloud.layer5.io/user/c6e60856-2252-4251-8464-8570c94fafc2?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
